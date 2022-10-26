@@ -8,4 +8,4 @@ console.log(valores)
 console.log(valores.pop())
 delete valores[0]
 
-console.log(valores)
+console.log(valores) 
