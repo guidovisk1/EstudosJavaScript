@@ -4,7 +4,6 @@ function tratarErroELancar(erro){
 
 }
 
-
 function imprimirNomeGritando(obj){
     try{
         console.log(obj.name.toUpperCase() + '!!!')
